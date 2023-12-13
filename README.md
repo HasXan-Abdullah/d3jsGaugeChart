@@ -1,6 +1,6 @@
 # D3.js Customized Gauge Chart
 
-![Gauge Chart](link-to-image)
+Gauge Chart
 
 A customizable gauge chart built using D3.js, providing an interactive way to visualize and adjust values.
 
