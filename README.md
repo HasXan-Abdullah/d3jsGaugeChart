@@ -6,7 +6,7 @@ A customizable gauge chart built using D3.js, providing an interactive way to vi
 
 ## Live Demo
 
-[Click here to view the live demo](https://hasxan-abdullah.github.io/d3.js-html-gauge-chart/)
+[Click here to view the live demo](https://hasxan-abdullah.github.io/d3jsGaugeChart/)
 
 ## Overview
 
